@@ -153,7 +153,12 @@ My name Sabrina Barbosa Soares Bezerra, I'm 30 years old and I'm from Recife Per
     style="padding-right: 10px;" 
     src="https://devicons.io/devicons/icons/insomnia.svg" 
 />
-<img 
+</div>
+
+<br clear="left"/> <br/>
+
+<div>
+    <img 
     align="left" 
     alt="Graphql" 
     title="Graphql"
@@ -185,11 +190,6 @@ My name Sabrina Barbosa Soares Bezerra, I'm 30 years old and I'm from Recife Per
     style="padding-right: 10px;" 
     src="https://devicons.io/devicons/icons/mysql.svg" 
 />
-</div>
-
-<br clear="left"/> <br/>
-
-<div>
   <img 
     align="left" 
     alt="Bitbucket"
